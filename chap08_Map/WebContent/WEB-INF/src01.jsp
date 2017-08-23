@@ -17,7 +17,10 @@
 	}
 </script>
 <script
-	src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD--k3vwuB9cAExy9ezTOAo-FR6ajxUctw&callback=initMap"
+	src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB2yUmgvdkPm_zxt56K-NhJLVKFwgCPTbU
+
+content_copy
+	=initMap"
 	async defer></script>
 
 
