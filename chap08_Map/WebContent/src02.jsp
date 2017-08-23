@@ -7,6 +7,9 @@
 	// 
 	navigator.geolocation.getCurrentPosition(function(e) {
 		console.log(e);
+		var lat =e.coords.latitude;
+		var lng = e.coords.longitude;
+		window.alert(lat+","+lng);
 	});
 	
 </script>
