@@ -19,6 +19,15 @@
 			"position" : pos,
 			"title" : "Hello World!"
 		});
+		
+		var marker_2 = new google.maps.maps.Marker({
+			"map" : map,
+			"position" : {
+				"lat" : 37.498034,
+				"lng" : 127.027430
+			},
+			"title" : "!Hello world!"
+		});
 	}
 </script>
 <script
