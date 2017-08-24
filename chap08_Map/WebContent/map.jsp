@@ -15,7 +15,7 @@ C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Python36\Scripts\;C:\Progra
 				"zoom" : 18
 			}
 		);
-	}
+	}//하이요
 </script>
 <script
 	src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB2yUmgvdkPm_zxt56K-NhJLVKFwgCPTbU&callback=initMap"
